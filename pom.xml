@@ -110,6 +110,20 @@
 			<artifactId>mockito-all</artifactId>
 			<version>1.10.19</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>cglib</groupId>
+			<artifactId>cglib</artifactId>
+			<version>3.1</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.reflections</groupId>
+			<artifactId>reflections</artifactId>
+			<version>0.9.9-RC1</version>
+		</dependency>
+
+		
 	</dependencies>
 
 	<profiles>
